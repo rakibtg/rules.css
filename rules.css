@@ -42,6 +42,37 @@
   padding: 45px !important;
 }
 
+/* Padding Top Rulues */
+.pt5 {
+  padding-top: 5px !important;
+}
+.pt10 {
+  padding-top: 10px important;
+}
+.pt12 {
+  padding-top: 12px !important;
+}
+.pt15 {
+  padding-top: 15px !important;
+}
+.pt20 {
+  padding-top: 20px !important;
+}
+.pt25 {
+  padding-top: 25px !important;
+}
+.pt30 {
+  padding-top: 30px !important;
+}
+.pt35 {
+  padding-top: 35px !important;
+}
+.pt40 {
+  padding-top: 40px !important;
+}
+.pt45 {
+  padding-top: 45px !important;
+}
 
 /*
   Common margin rules.
