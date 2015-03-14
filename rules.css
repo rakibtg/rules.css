@@ -1,14 +1,4 @@
 /*
-  Some basic background color.
-*/
-.bg_white {
-  background-color: #fff !important;
-}
-.bg_black {
-  background-color: #222 !important;
-}
-
-/*
   Common padding rules.
 */
 .p5 {
