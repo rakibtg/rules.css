@@ -19,3 +19,33 @@
 .bg_gray {
   background-color: #ccc !important;
 }
+.p5 {
+  padding: 5px !important;
+}
+.p10 {
+  padding: 10px important;
+}
+.p12 {
+  padding: 12px !important;
+}
+.p15 {
+  padding: 15px !important;
+}
+.p20 {
+  padding: 20px !important;
+}
+.p25 {
+  padding: 25px !important;
+}
+.p30 {
+  padding: 30px !important;
+}
+.p35 {
+  padding: 35px !important;
+}
+.p40 {
+  padding: 40px !important;
+}
+.p45 {
+  padding: 45px !important;
+}
