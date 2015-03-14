@@ -1,23 +1,8 @@
 .bg_white {
   background-color: #fff !important;
 }
-.bg_blue {
-  background-color: #2E33D9 !important;
-}
-.bg_red {
-  background-color: #DE1439 !important;
-}
-.bg_green {
-  background-color: #1BA824 !important;
-}
 .bg_black {
   background-color: #222 !important;
-}
-.bg_yellow {
-  background-color: #E2E831 !important;
-}
-.bg_gray {
-  background-color: #ccc !important;
 }
 .p5 {
   padding: 5px !important;
