@@ -141,6 +141,42 @@
   padding-left: 50px !important;
 }
 
+/* Padding Right Rulues */
+
+.pr5 {
+  padding-right: 5px !important;
+}
+.pr10 {
+  padding-right: 10px important;
+}
+.pr12 {
+  padding-right: 12px !important;
+}
+.pr15 {
+  padding-right: 15px !important;
+}
+.pr20 {
+  padding-right: 20px !important;
+}
+.pr25 {
+  padding-right: 25px !important;
+}
+.pr30 {
+  padding-right: 30px !important;
+}
+.pr35 {
+  padding-right: 35px !important;
+}
+.pr40 {
+  padding-right: 40px !important;
+}
+.pr45 {
+  padding-right: 45px !important;
+}
+.pr50 {
+  padding-right: 50px !important;
+}
+
 /*
   Common margin rules.
 */
