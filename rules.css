@@ -70,7 +70,8 @@
   padding-top: 50px !important;
 }
 
-/* Padding Top Rules */
+/* Padding Bottom Rules */
+
 .pb5 {
   padding-bottom: 5px !important;
 }
@@ -175,41 +176,4 @@
 }
 .pr50 {
   padding-right: 50px !important;
-}
-
-/*
-  Common margin rules.
-*/
-.m5 {
-  margin: 5px !important;
-}
-.m10 {
-  margin: 10px important;
-}
-.m12 {
-  margin: 12px !important;
-}
-.m15 {
-  margin: 15px !important;
-}
-.m20 {
-  margin: 20px !important;
-}
-.m25 {
-  margin: 25px !important;
-}
-.m30 {
-  margin: 30px !important;
-}
-.m35 {
-  margin: 35px !important;
-}
-.m40 {
-  margin: 40px !important;
-}
-.m45 {
-  margin: 45px !important;
-}
-.m50 {
-  margin: 50px !important;
 }
