@@ -177,3 +177,183 @@
 .pr50 {
   padding-right: 50px !important;
 }
+
+/*
+  Common margin rules.
+*/
+.m5 {
+  margin: 5px !important;
+}
+.m10 {
+  margin: 10px important;
+}
+.m12 {
+  margin: 12px !important;
+}
+.m15 {
+  margin: 15px !important;
+}
+.m20 {
+  margin: 20px !important;
+}
+.m25 {
+  margin: 25px !important;
+}
+.m30 {
+  margin: 30px !important;
+}
+.m35 {
+  margin: 35px !important;
+}
+.m40 {
+  margin: 40px !important;
+}
+.m45 {
+  margin: 45px !important;
+}
+.m50 {
+  margin: 50px !important;
+}
+
+/* margin Top Rulues */
+.mt5 {
+  margin-top: 5px !important;
+}
+.mt10 {
+  margin-top: 10px important;
+}
+.mt12 {
+  margin-top: 12px !important;
+}
+.mt15 {
+  margin-top: 15px !important;
+}
+.mt20 {
+  margin-top: 20px !important;
+}
+.mt25 {
+  margin-top: 25px !important;
+}
+.mt30 {
+  margin-top: 30px !important;
+}
+.mt35 {
+  margin-top: 35px !important;
+}
+.mt40 {
+  margin-top: 40px !important;
+}
+.mt45 {
+  margin-top: 45px !important;
+}
+.mt50 {
+  margin-top: 50px !important;
+}
+
+/* margin Bottom Rules */
+
+.mb5 {
+  margin-bottom: 5px !important;
+}
+.mb10 {
+  margin-bottom: 10px important;
+}
+.mb12 {
+  margin-bottom: 12px !important;
+}
+.mb15 {
+  margin-bottom: 15px !important;
+}
+.mb20 {
+  margin-bottom: 20px !important;
+}
+.mb25 {
+  margin-bottom: 25px !important;
+}
+.mb30 {
+  margin-bottom: 30px !important;
+}
+.mb35 {
+  margin-bottom: 35px !important;
+}
+.mb40 {
+  margin-bottom: 40px !important;
+}
+.mb45 {
+  margin-bottom: 45px !important;
+}
+.mb50 {
+  margin-bottom: 50px !important;
+}
+
+/* margin Left Rulues */
+
+.ml5 {
+  margin-left: 5px !important;
+}
+.ml10 {
+  margin-left: 10px important;
+}
+.ml12 {
+  margin-left: 12px !important;
+}
+.ml15 {
+  margin-left: 15px !important;
+}
+.ml20 {
+  margin-left: 20px !important;
+}
+.ml25 {
+  margin-left: 25px !important;
+}
+.ml30 {
+  margin-left: 30px !important;
+}
+.ml35 {
+  margin-left: 35px !important;
+}
+.ml40 {
+  margin-left: 40px !important;
+}
+.ml45 {
+  margin-left: 45px !important;
+}
+.ml50 {
+  margin-left: 50px !important;
+}
+
+/* margin Right Rulues */
+
+.mr5 {
+  margin-right: 5px !important;
+}
+.mr10 {
+  margin-right: 10px important;
+}
+.mr12 {
+  margin-right: 12px !important;
+}
+.mr15 {
+  margin-right: 15px !important;
+}
+.mr20 {
+  margin-right: 20px !important;
+}
+.mr25 {
+  margin-right: 25px !important;
+}
+.mr30 {
+  margin-right: 30px !important;
+}
+.mr35 {
+  margin-right: 35px !important;
+}
+.mr40 {
+  margin-right: 40px !important;
+}
+.mr45 {
+  margin-right: 45px !important;
+}
+.mr50 {
+  margin-right: 50px !important;
+}
