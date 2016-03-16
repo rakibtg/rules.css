@@ -3,9 +3,9 @@ trump.css is a simple css plugin that provides classes for mostly used padding a
 
 **What trump.css will do for me:** Think of you are working on a bootstrap site, and for some reason you wanted to add 10px padding at the bottom and 20px margin at the right to a HTML tag, now with trump.css file added in your project you can use the pre-defined classes with the HTML tag, which will save your development time.
 
-**Here is how it works:** Assuming we want to add a 10px padding at the top of a DIV tag, so we would add `pt10` class with that DIV tag.
+**Here is how it works:** Assuming we want to add a 10px padding at the top and `10px` margin at the bottom of a DIV tag, so we would add `pt10 mb10` class with that DIV tag.
 
-Example: `<div class="pt10">i am a awesome div</div>`
+Example: `<div class="pt10 mb10">i am a awesome div</div>`
 
 In this example the `pt10` means, p => padding, t => top and 10 => 10px!
 
