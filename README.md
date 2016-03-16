@@ -1,6 +1,10 @@
 #Lets Make Padding and Margin Great Again
 trump.css is a simple css plugin that provides classes for mostly used padding and margin rules.
 
+
+> [I took Trump as a buzzword that has some common facts or entities like limitation, funny, static, small (:p), quick which implicitly highlights this project but except the fact that this css plugin works in real life :)](https://news.ycombinator.com/item?id=11295869)
+
+
 **What trump.css will do for me:** Think of you are working on a bootstrap site, and for some reason you wanted to add 10px padding at the bottom and 20px margin at the right to a HTML tag, now with trump.css file added in your project you can use the pre-defined classes with the HTML tag, which will save your development time.
 
 **Here is how it works:** Assuming we want to add a 10px padding at the top and `10px` margin at the bottom of a DIV tag, so we would add `pt10 mb10` class with that DIV tag.
