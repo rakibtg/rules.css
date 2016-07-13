@@ -26,7 +26,7 @@ Please note that available values are from 5 to 50 (with a 5 interval each).
 * Add `padding-right` to a Tag: `.pr5` This would add a 5px padding on the right of a Tag.
 * Same goes for adding margins, just replace the `p` with `m` where `m` means margin! eg. `.mt5` this would add a 5px margin on the top of a tag!
 
-**Minified Version** There is a `rules.min.css` production ready minidied file in the repository.
+**Minified Version** There is a `rules.min.css` (3.28 KB) production ready minidied file in the repository.
 
 By [@rakibtg](https://www.twitter.com/rakibtg "Tweet me your thoughts!")
 
