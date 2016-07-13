@@ -2,7 +2,7 @@
 rules.css is a simple css plugin that provides classes for mostly used padding and margin rules.
 
 
-**What rules.css will do for me:** Think of you are working on a bootstrap site, and for some reason you wanted to add 10px padding at the bottom and 20px margin at the right to a HTML tag, now with rules.css file added in your project you can use the pre-defined classes with the HTML tag, which will save your development time.
+**What rules.css will do for me:** You are working on a site and using a CSS framework like bootstrap or foundation or anything else and for some reason you wanted to add 10px padding at the bottom and 20px margin at the right to a HTML tag, now with rules.css file added in your project you can use the pre-defined classes with the HTML tag, which will save your development time.
 
 **Here is how it works:** Assuming we want to add a 10px padding at the top and `10px` margin at the bottom of a DIV tag, so we would add `pt10 mb10` class with that DIV tag.
 
